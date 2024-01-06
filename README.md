@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AngelTF200
-- 👀 I’m interested in becoming a pro osu player
-- 🌱 I’m currently learning on how to program 
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to not reach me 
--  its how not to reach me but i did because why not
--  
+osu! player 
+mastering Dt and tourney maps 
+looking farward to be a small streamer and have a small fanbase
 
 <!---
 AngelTF200/AngelTF200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
